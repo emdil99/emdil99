@@ -14,16 +14,16 @@ I previously worked in finance and now build ML systems bridging **modeling, pro
 
 ## 🔬 Current Projects
 
-### 🧠 **ANN Product-Matching Search Engine (PyTorch)**
+### **ANN Product-Matching Search Engine (PyTorch)**
 Building an approximate-nearest-neighbor search model (Amazon-style) for product matching using embeddings, bigram language models, perplexity evaluation, and torch-based training loops.
 
-### 💫 **LLM Task-Extraction Agent**
+###  **LLM Task-Extraction Agent**
 Fine-tuning small LLMs for structured task extraction using AWS Bedrock, LoRA, and curated JSON datasets.
 
-### 💜 **Women’s Health Data Analysis (NHANES)**
+###  **Women’s Health Data Analysis (NHANES)**
 R-based data exploration and visualization of diet, physical activity, and health indicators across NHANES cycles (ggplot2, tidyverse, heatmaps, missingness diagnostics).
 
-### 📈 **ML Practice & Foundations**
+###  **ML Practice & Foundations**
 A collection of machine learning fundamentals, models, experiments, and exploratory notebooks.
 
 ---
@@ -52,7 +52,7 @@ AWS Bedrock • Git/GitHub • Jupyter • RStudio • VS Code • React • Sno
 
 ## 🌐 Connect with Me
 
-📫 **Email:** emma.dilauro (at) columbia.edu  
+📫 **Email:** eed2167@columbia.edu  
 🔗 **LinkedIn:** https://www.linkedin.com/in/emma-dilauro  
 
 ---

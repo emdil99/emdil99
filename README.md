@@ -44,9 +44,10 @@ AWS Bedrock • Git/GitHub • Jupyter • RStudio • VS Code • React • Sno
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=emdil99&show_icons=true&hide_border=true&count_private=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emdil99&layout=compact&hide_border=true&theme=default" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=emdil99&show_icons=true&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=emdil99&layout=compact&hide_border=true" />
 </p>
+
 
 ---
 

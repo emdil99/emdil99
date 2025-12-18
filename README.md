@@ -7,7 +7,6 @@ I previously worked in finance and now build ML systems bridging **modeling, pro
 - Machine Learning & Deep Learning  
 - NLP & LLM fine-tuning  
 - Recommender Systems & Ranking  
-- Causal Inference  
 - Health & Wellness Data  
 
 ---
@@ -18,10 +17,10 @@ I previously worked in finance and now build ML systems bridging **modeling, pro
 Building an approximate-nearest-neighbor search model (Amazon-style) for product matching using embeddings, bigram language models, perplexity evaluation, and torch-based training loops.
 
 ###  **LLM Task-Extraction Agent**
-Fine-tuning small LLMs for structured task extraction using AWS Bedrock, LoRA, and curated JSON datasets.
+Fine-tuning small LLMs and RAG for structured tasks 
 
-###  **Women’s Health Data Analysis (NHANES)**
-R-based data exploration and visualization of diet, physical activity, and health indicators across NHANES cycles (ggplot2, tidyverse, heatmaps, missingness diagnostics).
+###  **Women’s Health Data Analysis**
+R-based data exploration and visualization of diet, physical activity, and health indicators across NHANES cycles and BRFSS (ggplot2, tidyverse, heatmaps, missingness diagnostics).
 
 ###  **ML Practice & Foundations**
 A collection of machine learning fundamentals, models, experiments, and exploratory notebooks.
@@ -31,13 +30,11 @@ A collection of machine learning fundamentals, models, experiments, and explorat
 ## 🛠️ Technical Skills
 
 ### **Languages**
-Python • R • SQL • JavaScript • Markdown • LaTeX
+Python • R • SQL  
 
 ### **ML & Data**
 PyTorch • scikit-learn • HuggingFace • NumPy/Pandas • ggplot2 • Tidyverse • NetworkX
 
-### **Tools**
-AWS Bedrock • Git/GitHub • Jupyter • RStudio • VS Code • React • Snowflake • BigQuery
 
 
 ---
